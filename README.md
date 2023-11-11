@@ -14,14 +14,13 @@ PDAL: https://pdal.io<br />
 FUSION/LDV: http://forsys.sefs.uw.edu/fusion/fusionlatest.html<br />
 MCC-LiDAR: http://sourceforge.net/projects/mccLiDAR/develop<br />
 BCAL LiDAR Tools: http://bcal.boisestate.edu/tools/LiDAR/<br />
-LASTools: http://www.cs.unc.edu/ isenburg/lastools/<br />
+LASTools: http://www.cs.unc.edu/isenburg/lastools/<br />
 CloudCompare: https://www.cloudcompare.org<br />
 
 ### Public DL Models
 VGG: https://github.com/machrisaa/tensorflow-vgg<br />
 FCN: https://github.com/shelhamer/fcn.berkeleyvision.org<br />
-PointNet/PointNet++: https://github.com/intel-isl/
-Open3D-PointNet2-Semantic3D<br />
+PointNet/PointNet++: https://github.com/intel-isl/Open3D-PointNet2-Semantic3D<br />
 MinkUNet: https://github.com/NVIDIA/MinkowskiEngine<br />
 DGCNN: https://github.com/AnTao97/dgcnn.pytorch<br />
 KPConv: https://github.com/HuguesTHOMAS/KPConv<br />
