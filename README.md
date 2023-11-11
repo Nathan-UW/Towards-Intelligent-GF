@@ -37,7 +37,3 @@ If it is helpful for your work, please consider citing our paper:
         booktitle={Int. J. Appl. Earth Obs. Geoinf.},
         year={2023}
     }
-
-
-## <a name="changelog"></a> Changelog
-* [2023-11-11] The survey has been accepted by JAG!
