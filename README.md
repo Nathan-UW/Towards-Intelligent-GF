@@ -5,8 +5,8 @@ Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A 
 
 ## Available Open-source Tools
 ### Free Software
-ALDPAT: http://LiDAR.ihrc.fiu.edu/LiDARtool.html
-PCL: https://pointclouds.org/downloads/
+ALDPAT: http://LiDAR.ihrc.fiu.edu/LiDARtool.html <br />
+PCL: https://pointclouds.org/downloads/<br />
 PDAL: https://pdal.io
 FUSION/LDV: http://forsys.sefs.uw.edu/fusion/fusionlatest.html
 MCC-LiDAR: http://sourceforge.net/projects/mccLiDAR/develop
