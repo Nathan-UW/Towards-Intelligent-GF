@@ -1,6 +1,4 @@
 # Towards-Intelligent-GF
-Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey
-
 **Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey** 
 
 Nannan Qin, Weikai Tan, Haiyan Guan, Lanying Wang, Lingfei Ma, Pengjie Tao, Sarah Fatholahi, Xiangyun Hu∗, Jonathan Li∗
