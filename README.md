@@ -17,7 +17,7 @@ ISPRS-Filtertest: https://www.itc.nl/isprs/wgIII-3/filtertest<br />
 OpenGF: https://github.com/Nathan-UW/OpenGF<br />
 Forested environment: https://3decology.org/2023/06/21/benchmark-dataset-for-airborne-lidar-scanning-data-filtering-in-forested-environments-2/ <br />
 
-## Available Open-source Tools
+## Open-source Tools
 ### Free Software
 ALDPAT: http://LiDAR.ihrc.fiu.edu/LiDARtool.html <br />
 PCL: https://pointclouds.org/downloads/<br />
