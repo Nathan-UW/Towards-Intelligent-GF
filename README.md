@@ -1,6 +1,28 @@
 # Towards-Intelligent-GF
 Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey
 
+## Public Datasets
+
+## Available Open-source Tools
+### Free Software
+ALDPAT: http://LiDAR.ihrc.fiu.edu/LiDARtool.html
+PCL: https://pointclouds.org/downloads/
+PDAL: https://pdal.io
+FUSION/LDV: http://forsys.sefs.uw.edu/fusion/fusionlatest.html
+MCC-LiDAR: http://sourceforge.net/projects/mccLiDAR/develop
+BCAL LiDAR Tools: http://bcal.boisestate.edu/tools/LiDAR/
+LASTools: http://www.cs.unc.edu/ isenburg/lastools/
+CloudCompare: https://www.cloudcompare.org
+
+### Public DL Models
+VGG
+FCN
+PointNet/PointNet++
+MinkUNet
+DGCNN
+KPConv
+RandLA-Net
+SCF-Net
 
 ## Citation
 
