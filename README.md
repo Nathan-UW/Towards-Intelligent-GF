@@ -1,7 +1,7 @@
 # Towards-Intelligent-GF
 Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey
 
-![Image](Imgs/Typical Publications.png)
+![Image](Imgs/Typical_Publications.png)
 
 ## Public Datasets
 ISPRS-Filtertest:https://www.itc.nl/isprs/wgIII-3/filtertest<br />
