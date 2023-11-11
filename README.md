@@ -13,7 +13,7 @@ With the fast development of 3D data acquisition techniques, topographic point c
 ![Image](Imgs/Typical_Publications.png)
 
 ## Public Datasets
-ISPRS-Filtertest:https://www.itc.nl/isprs/wgIII-3/filtertest<br />
+ISPRS-Filtertest: https://www.itc.nl/isprs/wgIII-3/filtertest<br />
 OpenGF: https://github.com/Nathan-UW/OpenGF<br />
 Forested environment: https://3decology.org/2023/06/21/benchmark-dataset-for-airborne-lidar-scanning-data-filtering-in-forested-environments-2/ <br />
 
