@@ -10,7 +10,7 @@ With the fast development of 3D data acquisition techniques, topographic point c
 
 ## Publication Trends
 
-![Image](Imgs/Typical_Publications.png)
+![Image](Imgs/Typical_publications.jpg)
 
 ## Public Datasets
 ISPRS-Filtertest: https://www.itc.nl/isprs/wgIII-3/filtertest<br />
