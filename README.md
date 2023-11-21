@@ -3,7 +3,7 @@
 
 Nannan Qin, Weikai Tan, Haiyan Guan, Lanying Wang, Lingfei Ma, Pengjie Tao, Sarah Fatholahi, Xiangyun Hu∗, Jonathan Li∗
 
-**[[Paper]()]**
+**[[Paper](https://www.sciencedirect.com/science/article/pii/S1569843223003904)]**
 
 # Abstract
 With the fast development of 3D data acquisition techniques, topographic point clouds have become easier to acquire and have promoted many geospatial applications. Ground filtering (GF), as one of the most fundamental and challenging tasks for the post-processing of large-scale topographic point clouds, has been extensively studied but has yet to be well solved. To reveal future superior solutions, a comprehensive investigation of up-to-date GF studies is essential. However, existing GF surveys are scarce and fail to capture the latest progress and advancements. To this end, this paper not only presents a comprehensive review of up-to-date and advanced GF methods, but also conducts systematic comparative analyses of existing experimental results on public GF benchmark datasets. Moreover, this survey compiles the most recent publicly available resources that can be leveraged for the GF research, including pertinent datasets, metrics, and a range of open-source tools. Finally, the remaining challenges and promising research directions of GF, as well as implications for large-scale 3D geospatial understanding, are discussed in-depth. It is expected that this survey can simultaneously serve as a position paper and tutorial to those interested in GF.
