@@ -45,6 +45,9 @@ If it is helpful for your work, please consider citing our paper:
     @inproceedings{qin2023towardsIGF,
         title={Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey},
         author={Qin, Nannan and Tan, Weikai and Guan, Haiyan and Wang, Lanying  and Ma, Lingfei and Tao, Pengjie and Fatholahi, Sarah and Hu, Xiangyun and Li, Jonathan},
-        booktitle={Int. J. Appl. Earth Obs. Geoinf.},
+        journal={Int. J. Appl. Earth Obs. Geoinf.},
         year={2023}
+        volume = {125},
+        pages = {103566},
+        doi = {https://doi.org/10.1016/j.jag.2023.103566}
     }
